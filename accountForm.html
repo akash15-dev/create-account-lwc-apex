@@ -1,0 +1,11 @@
+<template>
+    <lightning-card title="Create Account Using Apex" icon-name="standard:account">
+        <div class="slds-p-around_large">
+            <lightning-input label='Account Name' placeholder='Enter Account Name' value={account.Name} required onchange={handleName}></lightning-input>
+            <lightning-input label='Phone' placeholder='Enter Account Phone' value={account.Phone} onchange={handlePhone}></lightning-input>
+            <lightning-input label='Website' placeholder='Enter Account Website' value={account.Website} onchange={handleWebsite}></lightning-input>
+            <br>
+            <lightning-button label='Create Account' variant='brand' onclick={handleSubmit}></lightning-button>
+        </div>
+    </lightning-card>
+</template>
