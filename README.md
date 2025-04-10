@@ -42,7 +42,7 @@ force-app/
 └── main/
     └── default/
         ├── classes/
-        │   ├── accountCreation.cls
+        │   ├── accountCreation.apex
         │
         └── lwc/
             └── accountForm/
