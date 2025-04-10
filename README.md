@@ -34,12 +34,6 @@ This project is great for:
 
 ---
 
-## 🙌 Contributing
-
-💡 If you have any suggestions, feel free to open an issue or ping me — I'm happy to collaborate and improve this project together!
-
----
-
 ## 📂 Project Structure
 
 ```bash
@@ -48,9 +42,31 @@ force-app/
 └── main/
     └── default/
         ├── classes/
-        │   └── CreateAccountController.cls
+        │   ├── accountCreation.cls
+        │
         └── lwc/
-            └── createAccountForm/
-                ├── createAccountForm.html
-                ├── createAccountForm.js
-                └── createAccountForm.js-meta.xml
+            └── accountForm/
+                ├── accountForm.html
+                ├── accountForm.js
+                └── accountForm.js-meta.xml
+```
+---
+
+## 🙌 Contributing
+
+💡 If you have any suggestions, feel free to open an issue or ping me — I'm happy to collaborate and improve this project together!
+
+---
+ 
+## 📬 Contact
+
+**Akash**  
+🔗 [LinkedIn](https://www.linkedin.com)  
+📧 akash.sfdc015@gmail.com  
+
+> 🚀 Interested in building cool projects together? Let’s collaborate!
+
+---
+
+Sent with 💌 from Akash's dev cave 🧑‍💻
+
