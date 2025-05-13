@@ -7,7 +7,7 @@ This project demonstrates how to **create an Account record** in Salesforce usin
 ## 🛠️ Tech Stack
 
 - ⚡ Salesforce Platform     
-- 🌐 Lightning Web Components (LWC)   
+- 🌐 Lightning Web Components (LWC)          
 - 🔙 Apex  
 - 🎨 HTML & JS 
 - 🗃️ GitHub  
