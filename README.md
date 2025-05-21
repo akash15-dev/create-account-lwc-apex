@@ -19,7 +19,7 @@ This project demonstrates how to **create an Account record** in Salesforce usin
 - 🧑‍💼 Simple Account creation form   
 - 🔄 Real-time form validation   
 - 📩 Apex controller to insert records   
-- ✅ Success & ❌ error toast messages  
+- ✅ Success & ❌ error toast messages     
 - 🧩 Clean and modular component structure   
 
 ---
