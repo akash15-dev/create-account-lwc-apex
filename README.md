@@ -14,7 +14,7 @@ This project demonstrates how to **create an Account record** in Salesforce usin
        
 ---   
   
-## ✨ Features     
+## ✨ Features       
   
 - 🧑‍💼 Simple Account creation form   
 - 🔄 Real-time form validation   
