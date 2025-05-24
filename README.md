@@ -2,7 +2,7 @@
 
 This project demonstrates how to **create an Account record** in Salesforce using **Lightning Web Components (LWC)** for the frontend and **Apex** for the backend. The form allows users to enter account details and saves them in Salesforce.
 
----
+---  
  
 ## 🛠️ Tech Stack
 
